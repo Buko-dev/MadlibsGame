@@ -6,7 +6,7 @@ namespace MadlibsGame
     {
         static void Main(string[] args)
         {
-<<<<<<< Updated upstream
+
             Car myCar = new Car();
             myCar.petName = "Bingo";
             myCar.currSpeed = 56;
@@ -28,11 +28,9 @@ namespace MadlibsGame
             }
             //Console.WriteLine("Hello World!");
             Console.ReadLine();
-=======
+
             Console.WriteLine("Hello World!");
 
-            //BNuko
->>>>>>> Stashed changes
         }
     }
 }
