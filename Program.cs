@@ -18,6 +18,9 @@ namespace MadlibsGame
             Car myCar3 = new Car("Heather");
             myCar3.PrintState();
 
+            Car mycar4 = new Car("Heather-2");
+            myCar3.PrintState();
+
 
 
             //Speedup the car a few times and print out the new state
