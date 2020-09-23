@@ -21,6 +21,9 @@ namespace MadlibsGame
             Car mycar4 = new Car("Heather-2");
             myCar3.PrintState();
 
+            MotorCycle myMotorCycle = new MotorCycle(15);
+            myMotorCycle.SetDriverName("Madubuko");
+            this.
 
 
             //Speedup the car a few times and print out the new state
